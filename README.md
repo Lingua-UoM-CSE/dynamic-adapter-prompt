@@ -1,6 +1,6 @@
-# Performance Metrics
+## Hate-Speech Detection - Kannada-English
 
-## Experiment 1
+### Seed = 42
 
 | Script  | Accuracy | Precision | Recall | F1     | Ma. Precision | Ma. Recall | Ma. F1  |
 |---------|----------|-----------|--------|--------|---------------|------------|--------|
@@ -9,7 +9,7 @@
 | Mixed   | 0.8202   | 0.8359    | 0.8202 | 0.8243 | 0.7928        | 0.8206     | 0.802  |
 | Overall | 0.8244   | 0.8203    | 0.8244 | 0.8219 | 0.7747        | 0.7595     | 0.7664 |
 
-## Experiment 2
+### Seed = 8
 
 | Script  | Accuracy | Precision | Recall | F1     | Ma. Precision | Ma. Recall | Ma. F1  |
 |---------|----------|-----------|--------|--------|---------------|------------|--------|
@@ -18,7 +18,7 @@
 | Mixed   | 0.8764   | 0.8747    | 0.8764 | 0.8744 | 0.8653        | 0.8422     | 0.8522 |
 | Overall | 0.7993   | 0.7917    | 0.7993 | 0.7943 | 0.7411        | 0.7181     | 0.7278 |
 
-## Experiment 3
+### Seed = 77
 
 | Script  | Accuracy | Precision | Recall | F1     | Ma. Precision | Ma. Recall | Ma. F1  |
 |---------|----------|-----------|--------|--------|---------------|------------|--------|
